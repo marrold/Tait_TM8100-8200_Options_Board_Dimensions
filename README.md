@@ -9,6 +9,9 @@ Fortunately the drawings in the included "3DK Hardware Developer’s Kit Applica
 I've not yet verified the fit by having a PCB manufactured, but all measurements match those documented in the PDF.
 
 
+<img src="TM8100-8200_Options_Board_Dimensions.png" width="400">
+
+
 ## License
 
 `TM8100/TM8200 3DK Hardware Developer’s Kit Application Manual` is copyrighted by Tait Electronics Limited.
